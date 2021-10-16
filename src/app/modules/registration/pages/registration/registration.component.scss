@@ -1,0 +1,20 @@
+:host {
+    width: 100%;
+    max-width: 650px;
+    margin: auto;
+    padding: 15px;
+
+    section {
+        background: peachpuff;
+
+        div.header {
+            height: 56px;
+            background: white;
+        }
+    }
+
+    section, div.header {
+        border-top-left-radius: 8px;
+        border-top-right-radius: 8px;
+    }
+}

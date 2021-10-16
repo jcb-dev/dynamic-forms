@@ -1,0 +1,26 @@
+{
+    "Forms": {
+        "Registration": [
+            {
+                "label": "First name",
+                "type": "text",
+                "api_name": "first_name"
+            },
+            {
+                "label": "Middle name",
+                "type": "text",
+                "api_name": "middle_name"
+            },
+            {
+                "label": "Last name",
+                "type": "text",
+                "api_name": "last_name"
+            },
+            {   
+                "label": "Gender",
+                "type": "picklist",
+                "api_name": "gender"
+            }
+        ]
+    }
+}
